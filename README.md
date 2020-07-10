@@ -9,8 +9,9 @@ Software Engineering course at FPT University, HCM Campus.
 * Markdown file itself
 
 ## Connect me via
-1. [Github] (http://github.com/cyrus-le)
-2. [Facebook] (http://facebook.com/cyrus.le.79)
+1. [Github](http://github.com/cyrus-le)
+2. [Facebook](http://facebook.com/cyrus.le.79)
+3. [Email](kazuocyrus@gmail.com)
 
-### © 2020 by Cyrus Le
+### © 2020 by Cyrus Le | FPT University HCMC Campus
 

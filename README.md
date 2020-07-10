@@ -1,0 +1,16 @@
+# Welcome to Cyrus Le's repository
+This repository contains a simple Java application used for demonstration of CI - Continuous Integration process, a part of Introduction to 
+Software Engineering course at FPT University, HCM Campus.
+
+## You will find in this repo:
+* MathUtil class: hold all of our own math methods
+* Test class: demonstrate TDD and Unit Testing using JUnit
+* .gitignore
+* Markdown file itself
+
+## Connect me via
+1. [Github] (http://github.com/cyrus-le)
+2. [Facebook] (http://facebook.com/cyrus.le.79)
+
+### © 2020 by Cyrus Le
+

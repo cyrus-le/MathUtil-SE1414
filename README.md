@@ -8,6 +8,19 @@ Software Engineering course at FPT University, HCM Campus.
 * .gitignore
 * Markdown file itself
 
+Rambling
+========
+
+*Quote*
+> *If a miracle only happnes once*
+>
+>> ***What is it called the second time?***
+![Cap](/img/Cap.png)
+
+You should ignore my quote because my purpose is testing markdown 
+-----------------------------------------------------------------
+
+
 ## Connect me via
 1. [Github](http://github.com/cyrus-le)
 2. [Facebook](http://facebook.com/cyrus.le.79)

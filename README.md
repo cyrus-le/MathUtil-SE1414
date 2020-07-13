@@ -11,10 +11,12 @@ Software Engineering course at FPT University, HCM Campus.
 Rambling
 ========
 
-*Quote*
+**Quote**
 > *If a miracle only happnes once*
 >
 >> ***What is it called the second time?***
+
+
 ![Cap](/img/Cap.png)
 
 You should ignore my quote because my purpose is testing markdown 

@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -20,6 +21,9 @@ public class MathUtil {
     //nhưng cũng chỉ cỡ 15! thoy.
     public static long computeFactorial(int n){
         long result = 1;
+        if(n < 0 || n > 15){
+            throw new IllegalArgumentException("Invalid argument. N must be >= 0 and n <= 15");
+        }
         for (int i = 1; i <= n; i++) {
             result *= i;
         }

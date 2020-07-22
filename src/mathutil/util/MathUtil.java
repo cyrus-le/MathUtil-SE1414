@@ -24,9 +24,11 @@ public class MathUtil {
         if(n < 0 || n > 15){
             throw new IllegalArgumentException("Invalid argument. N must be >= 0 and n <= 15");
         }
-        for (int i = 1; i <= n; i++) {
-            result *= i;
-        }
-        return result;
+        if(n == 0 || n == 1){
+            return 1;  //điểm dừng của đệ quy         
+        }//sống sót đến dưới đây, sure, n 2..15
+        //ta ko xài else làm gì cả, xài else trừ điểm
+        return n * computeFactorial(n - 1);
+        
     }
 }
